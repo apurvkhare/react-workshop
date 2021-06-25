@@ -1,4 +1,4 @@
-# react-workshop
+# React Workshop
 This repo contains links to code and slides for my React Workshop
 
 ### Slides of the workshop is available at
