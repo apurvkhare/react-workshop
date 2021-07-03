@@ -11,9 +11,9 @@ https://ak-react-slides.netlify.app
 https://github.com/apurvkhare/react-in-depth/blob/main/chapter-2/index.html
 
 - Session 2
-https://github.com/apurvkhare/react-wrksp-session-2-3
-Clone the repo and run "yarn", that should install all dependencies
-Then run "yarn start" for development
+https://github.com/apurvkhare/react-wrksp-session-2-3  
+Clone the repo and run "yarn", that should install all dependencies  
+Then run "yarn start" for development  
 and run "yarn build" for building the production code
 
 ### References doc
