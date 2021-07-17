@@ -10,11 +10,14 @@ https://ak-react-slides.netlify.app
 - Session 1
 https://github.com/apurvkhare/react-in-depth/blob/main/chapter-2/index.html
 
-- Session 2
+- Session 2 and 3
 https://github.com/apurvkhare/react-wrksp-session-2-3  
 Clone the repo and run "yarn", that should install all dependencies  
 Then run "yarn start" for development  
 and run "yarn build" for building the production code
+
+- Session 4
+-https://github.com/apurvkhare/marvel-workshop-app
 
 ### References doc
 
